@@ -1,18 +1,18 @@
-# WooCommerce Subscriptions Importer and Exporter
+# Importateur et exportateur des abonnements WooCommerce
 
 [![Build Status](https://travis-ci.org/Prospress/woocommerce-subscriptions-importer-exporter.svg?branch=master)](https://travis-ci.org/Prospress/woocommerce-subscriptions-importer-exporter)
 [![license: GPL v2](https://img.shields.io/badge/license-GPLv2-blue.svg)](http://opensource.org/licenses/GPL-2.0)
 
-Import subscriptions to WooCommerce via CSV, or export your subscriptions from WooCommerce to a CSV.
+Importer abonnement à WooCommerce via CSV, ou exporter vos abonnement depuis WooCommerce à un fichier CSV.
 
-- [Importer Documentation](#subscriptions-importer)
-- [Exporter Documentation](#subscriptions-exporter)
+- [Documentation Importateur](#subscriptions-importer)
+- [Documentation Exportateur](#subscriptions-exporter)
 
 ---
 
 # Support
 
-The WooCommerce Subscriptions Importer and Exporter is released freely and openly to help WooCommerce developers migrate subscriber data to [WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/). Even with this plugin, migrations involve a lot of manual work to format subscription data correctly and test imports. Neither [Prospress](https://prospress.com/) nor [WooCommerce](http://woocommerce.com/) provide services to complete a migration with this tool.
+L'importateur et l'exportateur d'abonnements WooCommerce sont publiés librement et ouvertement pour aider les développeurs WooCommerce à migrer les données des abonnés vers les [abonnements WooCommerce](https://woocommerce.com/products/woocommerce-subscriptions/). Même avec ce plugin, les migrations impliquent beaucoup de travail manuel pour formater correctement les données d'abonnement et tester les importations. Ni [Prospress](https://prospress.com/) ni [WooCommerce](http://woocommerce.com/) ne fournissent de services pour effectuer une migration avec cet outil.
 
 For help with a migration, please contact [WisdmLabs](https://wisdmlabs.com/), an official partner for this extension.
 
